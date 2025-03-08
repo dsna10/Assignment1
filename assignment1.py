@@ -6,7 +6,7 @@
 '''
 OPS445 Assignment 1 - Winter 2025
 Program: assignment1.py 
-Author: "Student Name"
+Author: Dalip Singh
 The python code in this file (a1_[Student_id].py) is original work written by
 "Student Name". No code in this file is copied from any other source
 except those provided by the course instructor, including any person,
